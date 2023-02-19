@@ -14,13 +14,12 @@
 - `for` loop
 - `while` loop
 - `match case` statement
-- List Comprehension
 
 ---------------------------------------------------------------------------------------------------
 
 ## Data Structures
 - Mutable
-    - [List `list`](docs/list.md)
+    - [List `list` (List Comprehension)](docs/list.md)
     - [Dictionary `dict`](docs/dict.md)
     - [Set `set`](docs/set.md)
     - [Array `array` (Sequence of fixed-type data)](docs/array.md)
@@ -42,7 +41,10 @@
 
 ---------------------------------------------------------------------------------------------------
 
-## Interediate
+## Virtual Environment
+- venv
+
+## Intermediate
 - Exception Handling
 - File Handling
 - Closures
@@ -140,11 +142,6 @@
 ---------------------------------------------------------------------------------------------------
 
 
-## Networking
-- HTTP
-- TCP
-- UDP
-
 
 ## Design Patters
 - YAGNI
@@ -153,6 +150,17 @@
 - DRY
 - REST
 - SOAP
+
+
+## Networking
+- [HTTP]
+- [TCP]
+- [UDP]
+
+## API
+
+### API Design
+
 
 ---------------------------------------------------------------------------------------------------
 
